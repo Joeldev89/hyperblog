@@ -4,3 +4,4 @@ Estoy editando un readme.md desde editor.md para aprender Git y GitHub y a trav√
 ##### Cuando vea esto de nuevo espero recordarme de todos los comandos. :fa-plane:
 * Creado por Joel
 * Incluye HTML y CSS
+* Disponible desde GitHub Pages
